@@ -1,0 +1,2 @@
+The scope of this project was to complete several subtasks involving string manipulation, array methods as well as working with objects, classes, functions as well as writing a simple program. 
+As such it serves to demonstrate skill across a set of Javascript approaches to solve real-world problems in the context of web-development. 
